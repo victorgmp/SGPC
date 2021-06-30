@@ -1,0 +1,4 @@
+[submodule "services/SGPC-backend"]
+	path = services/api
+	url = https://github.com/victorgmp/SGPC-backend.git
+		branch = main
